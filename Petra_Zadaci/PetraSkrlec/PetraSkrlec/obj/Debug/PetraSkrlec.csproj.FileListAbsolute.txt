@@ -1,0 +1,7 @@
+C:\Users\Josip\Desktop\Petra_Zadaci\PetraSkrlec\PetraSkrlec\bin\Debug\PetraSkrlec.exe.config
+C:\Users\Josip\Desktop\Petra_Zadaci\PetraSkrlec\PetraSkrlec\bin\Debug\PetraSkrlec.exe
+C:\Users\Josip\Desktop\Petra_Zadaci\PetraSkrlec\PetraSkrlec\bin\Debug\PetraSkrlec.pdb
+C:\Users\Josip\Desktop\Petra_Zadaci\PetraSkrlec\PetraSkrlec\obj\Debug\PetraSkrlec.csproj.AssemblyReference.cache
+C:\Users\Josip\Desktop\Petra_Zadaci\PetraSkrlec\PetraSkrlec\obj\Debug\PetraSkrlec.csproj.CoreCompileInputs.cache
+C:\Users\Josip\Desktop\Petra_Zadaci\PetraSkrlec\PetraSkrlec\obj\Debug\PetraSkrlec.exe
+C:\Users\Josip\Desktop\Petra_Zadaci\PetraSkrlec\PetraSkrlec\obj\Debug\PetraSkrlec.pdb
